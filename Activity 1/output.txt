@@ -1,0 +1,6 @@
+Subclass One: This is SubclassOne.
+Subclass Two: This is SubclassTwo.
+Encapsulation Example ID: 1
+Encapsulation Example Name: Example Name
+Updated Encapsulation Example ID: 2
+Updated Encapsulation Example Name: New Example Name
